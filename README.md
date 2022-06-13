@@ -3,7 +3,7 @@
 ¡Hola! En este repositorio encontrarás el proyecto que desarrollaremos durante el curso HTML semántico y accesible de Código Facilito y también todos los recursos mencionados.
 
 
-
+## Modificado como parte del curso tomado. 
 
 ## Proyecto:
 
